@@ -1,4 +1,7 @@
 # API-Diccionario
+
+Manuel Enrique Rodriguez-Villacorta 22006988
+
 Diccionario Hogwarts
 
 Título de la actividad: Aplicación de Electron
